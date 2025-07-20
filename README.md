@@ -20,7 +20,7 @@ To set up FIM on Wazuh, check the ossec.conf file uploaded to this project (This
 **Note: In Wazuh, when a file is moved out of a monitored directory, it is logged as deleted, and when a file is moved into a directory, it is logged as created.**
 
 
-##VirusTotal
+## VirusTotal
 
 Once we have set up our FIM on our agents, and confirmed that it is working as seen on the checks.md, proceed to your Wazuh manager/server.
 
